@@ -4,21 +4,23 @@
 
 # :wave: Hi, this is Liquid Reply!
 
-October 2020 was the kick-off of Liquid Reply as a Kubernetes & cloud-native expert team. We are a part of Reply's ever growing network.
+## :coconut: Liquid Reply in a nutshell
 
-We are now a young passionate team of 25+ highly skilled people committed to finding the best possible and most efficient solutions to all kinds of problems. No path is too far and no hurdle too high for us.
-
-Clear, transparent, and honest communication is one of our keys to success.
-
-## :information_source: Liquid Reply in a nutshell
-
-Liquid Reply specializes in container orchestration, cloud-native development, as well as FinOps. We focus on multi- and hybrid-cloud solutions, site reliability engineering, and operational enablement from day two.
+Liquid Reply specializes in Kubernetes, cloud-native development, as well as FinOps. We focus on multi- and hybrid-cloud solutions, site reliability engineering, and operational enablement from day two.
 
 - We help companies to embrace the ever-changing IT universe as a part of their own DNA.
 - We ensure full cloud-native potential by providing a holistic approach to people, systems, and multi- as well as hybrid cloud strategies.
-- We offer tailored training to deepen cloud-native knowledge and to prepare experts for successful certification as Kubernetes Administrators, Application Developers, and Kubernetes Security Specialists (CKA/CKAD/CKS).
+- We offer tailored training to deepen cloud-native knowledge and to prepare experts for successful certification as Kubernetes Administrators (CKA), Application Developers (CKAD), and Kubernetes Security Specialists (CKS).
 
 In 2021, we became a member of Cloud Native Computing Foundation (CNCF) & The Linux Foundation (LF), re-certified as a Kubernetes Certified Service Provider (KCSP), certified as FinOps Service Provider, certified as Kubernetes Training Partner (KTP), became a member of FinOps Foundation ... and if that's not enough as of November 2021, we are one of the top 100 contributors to Kubernetes.
+
+## :information_source: About us
+
+We are a young passionate team of 25+ highly skilled people committed to finding the best possible and most efficient solutions to all kinds of problems. No path is too far and no hurdle too high for us.
+
+October 2020 was the kick-off of Liquid Reply as a Kubernetes & cloud-native expert team. We are a part of Reply's ever growing network.
+
+Clear, transparent, and open communication is one of our keys to success.
 
 ## :globe_with_meridians: Find us online
 
