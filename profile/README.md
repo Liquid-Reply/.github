@@ -1,4 +1,4 @@
-![Liquid Reply Logo](./logo.jpg)
+![Liquid Reply Logo](./banner.jpg)
 
 <!-- ![Liquid Reply Logo](./logo.png) -->
 
