@@ -1,7 +1,4 @@
-![Liquid Reply Logo](./banner.jpg)
-
-<!-- ![Liquid Reply Logo](./logo.png) -->
-
+![Liquid Reply Logo](https://raw.githubusercontent.com/Liquid-Reply/.github/main/profile/banner.jpg)
 # :wave: Hi, this is Liquid Reply!
 
 ## :coconut: Liquid Reply in a nutshell
