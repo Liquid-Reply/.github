@@ -21,9 +21,9 @@ Clear, transparent, and open communication is one of our keys to success.
 
 ## :globe_with_meridians: Find us online
 
-- Feel free to [visit our website](http://liquidreply.com),
-- have a look at [our company blog](https://liquidreply.net/),
-- or reach out to us [on LinkedIn](https://www.linkedin.com/company/liquid-reply/).
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/liquid-reply)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LiquidReply)
+[![Website](https://img.shields.io/badge/Website-%2326A570.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://liquidreply.net/)
 
 ## :technologist: Become a part of the team
 
@@ -33,9 +33,3 @@ You can find all our [current job openings online](https://liquidreply.bamboohr.
 - [Multi Cloud Consultant](https://liquidreply.bamboohr.com/jobs/view.php?id=27)
 - [Golang Software Engineer](https://liquidreply.bamboohr.com/jobs/view.php?id=29)
 - [FinOps Consultant](https://liquidreply.bamboohr.com/jobs/view.php?id=32)
-
-## Follow Us!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/liquid-reply)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LiquidReply)
-[![Website](https://img.shields.io/badge/Website-%2326A570.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://liquidreply.net/)
