@@ -24,7 +24,8 @@ Clear, transparent, and open communication is one of our keys to success.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/liquid-reply)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LiquidReply)
 [![Website](https://img.shields.io/badge/Website-00b14e.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](http://liquidreply.com)
-[![Blog](https://img.shields.io/badge/Blog-7D3C98.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://liquidreply.net/)
+[![Company Blog](https://img.shields.io/badge/Blog-950EBA.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://liquidreply.net)
+
 
 ## :technologist: Become a part of the team
 
