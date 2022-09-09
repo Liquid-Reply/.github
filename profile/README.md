@@ -29,9 +29,12 @@ Clear, transparent, and open communication is one of our keys to success.
 
 ## :technologist: Become a part of the team
 
-You can find all our [current job openings online](https://liquidreply.bamboohr.com/jobs/), for example:
+You can find all our [current job openings online](https://join.com/companies/liquidreply), for example:
 
-- [Kubernetes Platform Consultant](https://liquidreply.bamboohr.com/jobs/view.php?id=25)
-- [Multi Cloud Consultant](https://liquidreply.bamboohr.com/jobs/view.php?id=27)
-- [Golang Software Engineer](https://liquidreply.bamboohr.com/jobs/view.php?id=29)
-- [FinOps Consultant](https://liquidreply.bamboohr.com/jobs/view.php?id=32)
+- [Kubernetes Platform Consultant](https://join.com/companies/liquidreply/5633160-kubernetes-platform-engineer-m-f-d)
+- [Cloud Consultant](https://join.com/companies/liquidreply/5656184-cloud-consultant-m-f-d)
+- [Golang Software Engineer](https://join.com/companies/liquidreply/5665711-golang-software-engineer-m-f-d)
+- [FinOps Consultant](https://join.com/companies/liquidreply/5652844-finops-consultant-m-w-d)
+- [DevOps Engineer/Consultant](https://join.com/companies/liquidreply/5636476-devops-engineer-consultant-m-f-d)
+
+We live a remote first culture, but also provide office spaces in Munich, Hannover, Frankfurt, Berlin, Hamburg and Gütersloh. 
