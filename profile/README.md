@@ -31,13 +31,12 @@ Clear, transparent, and open communication is one of our keys to success.
 
 You can find all our [current job openings online](https://join.com/companies/liquidreply), for example:
 
-- [Junior Kubernetes Platform Consultant](https://join.com/companies/liquidreply/6278771-junior-kubernetes-platform-engineer-m-f-d)
-- [Senior Kubernetes Platform Consultant](https://join.com/companies/liquidreply/6261110-senior-kubernetes-platform-engineer-m-f-d)
-- [Junior DevOps Engineer/Consultant](https://join.com/companies/liquidreply/6274838-junior-devops-engineer-consultant-m-f-d)
-- [Senior DevOps Engineer/Consultant](https://join.com/companies/liquidreply/6290324-senior-devops-engineer-consultant-m-f-d)
-- [Junior Cloud Consultant](https://join.com/companies/liquidreply/6264421-junior-cloud-consultant-m-f-d)
-- [Senior Cloud Consultant](https://join.com/companies/liquidreply/6245327-senior-cloud-consultant-m-f-d)
-- [Golang Software Engineer](https://join.com/companies/liquidreply/5665711-golang-software-engineer-m-f-d)
-- [FinOps Consultant](https://join.com/companies/liquidreply/5652844-finops-consultant-m-w-d)
+- [(Junior) Platform Engineering Consultant](https://join.com/companies/liquidreply/8264096-junior-platform-engineering-consultant-m-w-d)
+- [(Senior) Platform Engineering Consultant](https://join.com/companies/liquidreply/8264236-senior-platform-engineering-consultant-m-w-d)
+- [(Junior) DevOps Engineer/Consultant](https://join.com/companies/liquidreply/8264148-junior-devops-engineer-consultant-m-w-d)
+- [(Deputy) Business Unit Manager - Cloud Native](https://join.com/companies/liquidreply/8264316-stellvertretender-business-unit-manager-cloud-native-m-w-d)
+- [(Junior) Cloud Engineer/Consultant](https://join.com/companies/liquidreply/8264141-junior-cloud-engineer-consultant-m-w-d)
+- [(Senior) Cloud Consultant - Multi Cloud & Governance](https://join.com/companies/liquidreply/8264158-senior-cloud-consultant-fuer-multi-cloud-und-governance-m-w-d)
+- [FinOps Consultant](https://join.com/companies/liquidreply/8146982-finops-consultant-m-w-d)
 
 We live a remote first culture, but also provide office spaces in Munich, Hannover, Frankfurt, Berlin, Hamburg and Gütersloh. 
